@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stationeers.Addons.PluginCo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "My Mods", "My Mods", "{EEA1F74E-E0A0-41E5-95EB-153CB438764D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOGS", "MyMods\SOGS\SOGS.csproj", "{0E1E1924-4121-468F-8049-B2F7C03708F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,9 +54,20 @@ Global
 		{BC68C594-32CF-4EE7-B417-8FCB453AF897}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BC68C594-32CF-4EE7-B417-8FCB453AF897}.Release|x64.ActiveCfg = Release|Any CPU
 		{BC68C594-32CF-4EE7-B417-8FCB453AF897}.Release|x64.Build.0 = Release|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Debug|x64.Build.0 = Debug|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Release|x64.ActiveCfg = Release|Any CPU
+		{0E1E1924-4121-468F-8049-B2F7C03708F4}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E1E1924-4121-468F-8049-B2F7C03708F4} = {EEA1F74E-E0A0-41E5-95EB-153CB438764D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EB29F89-15AD-4607-B276-14AB5AC28D48}

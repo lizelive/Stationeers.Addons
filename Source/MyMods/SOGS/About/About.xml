@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>SOGS</Name>
+  <Author>LizeLive</Author>
+  <Version>0.2.2582.12315</Version>
+  <Description>WARNING: This mod will not work, unless you install Stationeers.Addon mod loader.
+Read how to install it here: https://github.com/Erdroy/Stationeers.Addons
+---
+
+makes physics more realistic.
+- 2 H2 + O2 = 2 H2O
+- Lava Is Hot (geothermal)
+- nuclear batteries are radioactive (and self recharge)
+</Description>
+  <WorkshopHandle>2403825928</WorkshopHandle>
+  <Tags />
+</ModMetadata>
